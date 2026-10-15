@@ -57,9 +57,10 @@
   "scripts": {
   "build": "echo 'Build completed'",
   "lint": "echo 'No lint errors'",
-  "start": "node main.js",
-  "dev": "node main.js",
-  "prod": "node main.js"
+  "start": "node index.js",
+  "dev": "node index.js",
+  "prod": "node index.js"
+}
   },
   "author": "NTKhang",
   "license": "MIT",
