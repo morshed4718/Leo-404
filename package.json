@@ -55,11 +55,11 @@
     "websocket-stream": "^5.5.2"
   },
   "scripts": {
-    "build": "echo 'Build completed'",
-    "lint": "echo 'No lint errors'",
-    "start": "node index.js",
-    "dev": "node index.js",
-    "prod": "node index.js"
+  "build": "echo 'Build completed'",
+  "lint": "echo 'No lint errors'",
+  "start": "node main.js",
+  "dev": "node main.js",
+  "prod": "node main.js"
   },
   "author": "NTKhang",
   "license": "MIT",
